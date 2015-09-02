@@ -1,7 +1,7 @@
 ---
 layout: template
 ---
- * _PLAN DE PROYECTO_
+ <big>PLAN DE PROYECTO</big>
  
    * [GANTT](https://drive.google.com/file/d/0B8OVG2Gb3mfGRUE3OE9heHFfUlU/view?usp=sharing).
  
