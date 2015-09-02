@@ -6,7 +6,8 @@ layout: template
  
    
    * [EDT](https://drive.google.com/file/d/0B8OVG2Gb3mfGUXdaUEZac1plcGc/view?usp=sharing).
-   
+    ![](https://github.com/dogloveulima/dogloveulima.github.io/blob/master/EDT.jpg?raw=true)
+
    * Plan de Riesgos
    
   | Riesgo | Mitigación | Reacción |
