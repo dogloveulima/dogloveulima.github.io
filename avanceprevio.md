@@ -35,6 +35,7 @@ layout: template
 
 * Sprint Backlog (100%)
 * Prototipos (wireframes) (50%)
-Diagrama de Casos de Uso
- ![Diagrama de Casos de Uso](https://github.com/dogloveulima/dogloveulima.github.io/blob/master/Dcus.jpg?raw=true)
- [Diagrama de Casos de Uso- Rational](https://drive.google.com/file/d/0B8OVG2Gb3mfGTzBmRnczQ29idGc/view?usp=sharing)
+* [Diagrama de Casos de Uso- Rational](https://drive.google.com/file/d/0B8OVG2Gb3mfGTzBmRnczQ29idGc/view?usp=sharing)
+
+ ![](https://github.com/dogloveulima/dogloveulima.github.io/blob/master/Dcus.jpg?raw=true)
+ 
