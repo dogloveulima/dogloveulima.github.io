@@ -55,6 +55,89 @@ layout: template
 10 | Diseño de la interfaz de la página de servicios adicionales | 5 | Diandra | Planeado | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
  
 * Prototipos (wireframes) (50%)
+ 
+ *  La aplicación comienza con la pantalla de entrada tienes que deslizar hacia la derecha para ir a la pantalla de inicio. Esta    || pantalla debería verse sólo 10 segundos y luego entrar a la pantalla de  inicio ya que algunas veces se demora para cambiar a la || pantalla.
+ 
+
+![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/1_zpscgjdiesx.png)
+
+
+
+
+ *  Esta es la pantalla de inicio. Haciendo click al botón de ingresar te lleva a la pantalla de  registrar cuenta.
+ 
+
+![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/2_zpsvpawumy7.png)
+
+
+
+* *Cuando ingresas hay dos opciones crear una cuenta o loguearte con facebook. También debería haber una  opción para loguearte con la cuenta de dog love.
+
+ .
+![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/3_zpsm9jrkqsp.png)
+
+
+
+ * Cuando seleccionas la opción de crear cuenta sale una pantalla para crear tu perfil.
+
+![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/4_zpsoxn8fsrb.png)
+
+
+
+  * Luego te sale la pantalla para crear el perfil de la mascota esta pantalla te sale directamente cuando seleccionas la opción de loguearte con facebook.
+ 
+![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/5_zpsq7vr12n2.png)
+
+
+
+ * Cuando ya están registrados tu perfil y el de tu mascota te salen las posibles parejas de tu perro. Si le das X te sale otra posible opción, si le das la pata entonces te sale la pantalla Match patita  en la cual puedes elegir la opción para entablar conversación con la pareja que elegiste para tu  perro. Aquí proponemos que las posibles parejas no salgan uno por uno sino en una lista para mostrar todas las posibles parejas en una sola pantalla para que no sea tan tedioso revisar uno por uno. 
+
+![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/6_zpsdhof2n9m.png)
+
+![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/7_zpsthtt3p6z.png)
+
+ 
+ * Después de elegir a la pareja de tu perro te salen las posibles parejas de tu perro para entablar conversación o seguir buscando si quieres elegir otra opción.
+  
+![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/8_zpsrbtri3kp.png)
+
+
+
+ * Si eliges la opción de iniciar chat entonces podrás entablar conversación con la pareja elegida.
+ 
+![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/9_zps4agrap3m.png)
+
+
+ * También tiene la opción de menu donde puedes ver tu perfil, tu configuración, preferencias de búsqueda, servicios adicionales y historiales de conversación.  
+
+![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/10_zpsrqo1lwzt.png)
+
+
+ * Pantalla Mi perfil
+
+![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/11_zpsfndevleq.png)
+ 
+
+ * Pantalla Configuración 
+ 
+![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/12_zpse1z0eow7.png)
+
+
+ * Pantalla de preferencias de búsqueda: De acuerdo a las características de tu perro doglove encuentra a las posibles parejas de tu perro.
+
+![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/13_zpsb3qpzlhm.png)
+ 
+
+ * Pantalla servicios adicionales: Dog love ofrece 3 servicios adicionales: Sesión de fotos, Organización de Encuentros Caninos y Salón de Belleza
+
+![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/14_zpsrnxhp1ct.png)
+ 
+
+ * Pantalla de historial de conversación: Aquí puedes todas las conversaciones que has hecho.
+
+![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/15_zpsulertpis.png)
+ 
+ 
 
 * Diagrama de Casos de Uso
 
