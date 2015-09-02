@@ -39,8 +39,21 @@ layout: template
   | 8 | Buscar Parejas | planeado | 20 | 3 | 10 | De acuerdo al filtro de búsqueda se mostrarán los perros que cumplan con los requisitos, y así poder encontrar a la pareja de su mascota. Además, se eligirá si el perro encontrado será aceptado o rechazado para así poder encontrar un match |Se muestran posibles parejas para la mascota y se aceptan o rechazan para buscar posibles match | 
   | 9 | Chatear | planeado | 18 | 3 | 7 | Con los perros matcheados, se podrá iniciar un chat para el futuro encuentro de los caninos | Se abre un con el dueño de la mascota aceptada, generándose un historial de conversaciones |
    
-   
-   
+* Sprint Backlog
+
+   Item | Nombre de la Tarea | ID Historia | Responsable | Estado | Est. (en horas) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+1 | Codificación de página de bienvenida | 1 | Jaime | Planeado | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+2 | Diseño de la interfaz de la página de bienvenida | 1 | Jaime | Planeado | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+3 | Gestión de la base de datos | 2 | Miguel | Planeado | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+4 | Codificación de registro de cuenta | 2 | Miguel | Planeado | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+5 | Pruebas de logueo | 2 | Jaime | Planeado | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+6 | Diseño de la Interfaz de logueo | 2 | Miguel | Planeado | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+7 | Codificación de Perfil | 4 | Jordy | Planeado | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+8 | Diseño de la interfaz del Perfil | 4 | Jordy | Planeado | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+9 | Codificación de página de servicios adicionales | 5 | Diandra | Planeado | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+10 | Diseño de la interfaz de la página de servicios adicionales | 5 | Diandra | Planeado | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ 
 * Prototipos (wireframes) (50%)
 
 * Diagrama de Casos de Uso
