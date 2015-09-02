@@ -21,7 +21,7 @@ layout: template
 * Product Backlog inicial
 
   | _ID HISTORIA_ | Nombre de la Historia | Estado | Tamaño | Sprint | Importancia | Como probarlo | Comentarios
-  | ---- | ---------- | ----- | ----- | ------ | ----- | --------------- | ------------- |  
+  | ---- | ---------- | ----- | ------- | ------ | ----- | --------------- | ------------- |  
   | 1 | Página de Bienvenida | planeado | 4 | 1 | 2 | Al ingresar a la aplicación, el usuario se encontrará en esta página | Página de bienvenida |
   | 2 | Registrarse creando cuenta| planeado | 10 | 1 | 8 | El usuario se registra creandose una cuenta | Los usuarios se registran para tener acceso |
   | 3 | Loguearse con Facebook | planeado | 15 | 2 | 8 |  El usuario se registra  ingresando con facebook, seleccionar la opción y verificar que se muestre sus datos. | Los usuarios sincronizan su cuenta de facebook con la aplicación para poder registrarse |
@@ -35,5 +35,7 @@ layout: template
 
 * Sprint Backlog (100%)
 * Prototipos (wireframes) (50%)
-* [Diagrama de Casos de Uso](https://drive.google.com/file/d/0B8OVG2Gb3mfGTzBmRnczQ29idGc/view?usp=sharing)
-![DC](https://github.com/dogloveulima/dogloveulima.github.io/blob/master/Dcus.jpg?raw=true)
+
+ ![Diagrama de Casos de Uso]
+ (https://github.com/dogloveulima/dogloveulima.github.io/blob/master/Dcus.jpg?raw=true)
+ [Diagrama de Casos de Uso- Rational](https://drive.google.com/file/d/0B8OVG2Gb3mfGTzBmRnczQ29idGc/view?usp=sharing)
