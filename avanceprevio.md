@@ -3,15 +3,15 @@ layout: template
 ---
  <big> 1. PLAN DE PROYECTO</big>
  
-   * [1.1 GANTT](https://drive.google.com/file/d/0B8OVG2Gb3mfGRUE3OE9heHFfUlU/view?usp=sharing).
+  [1.1 GANTT](https://drive.google.com/file/d/0B8OVG2Gb3mfGRUE3OE9heHFfUlU/view?usp=sharing).
  
    
-   * [1.2 EDT](https://drive.google.com/file/d/0B8OVG2Gb3mfGUXdaUEZac1plcGc/view?usp=sharing).
+  [1.2 EDT](https://drive.google.com/file/d/0B8OVG2Gb3mfGUXdaUEZac1plcGc/view?usp=sharing).
    
      ![](https://github.com/dogloveulima/dogloveulima.github.io/blob/master/EDT.jpg?raw=true)
 
    
-   * 1.3 Plan de Riesgos
+   1.3 Plan de Riesgos
    
   | Riesgo | Mitigación | Reacción |
   | ------------ | ------------- | ------------- |  
@@ -155,7 +155,7 @@ Sprint | Historia de Usuario | Tamaño Historia de Usuario
  
  
 
-* Diagrama de Casos de Uso
+1.6 Diagrama de Casos de Uso
 
   _[Ver en rational](https://drive.google.com/file/d/0B8OVG2Gb3mfGTzBmRnczQ29idGc/view?usp=sharing)_
 
