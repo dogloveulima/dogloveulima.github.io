@@ -63,15 +63,13 @@ layout: template
 
 
 
-
- *  Esta es la pantalla de inicio. Haciendo click al botón de ingresar te lleva a la pantalla de  registrar cuenta.
+ *  Esta es la pantalla de inicio. Haciendo click al botón de ingresar te lleva a la pantalla de  registrar cuenta. ||  || 
  
-
 ![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/2_zpsvpawumy7.png)
 
 
 
-* *Cuando ingresas hay dos opciones crear una cuenta o loguearte con facebook. También debería haber una  opción para loguearte con la cuenta de dog love.
+ * Cuando ingresas hay dos opciones crear una cuenta o loguearte con facebook. También debería haber una  opción para loguearte con la cuenta de dog love.
 
  .
 ![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/3_zpsm9jrkqsp.png)
@@ -90,7 +88,7 @@ layout: template
 
 
 
- * Cuando ya están registrados tu perfil y el de tu mascota te salen las posibles parejas de tu perro. Si le das X te sale otra posible opción, si le das la pata entonces te sale la pantalla Match patita  en la cual puedes elegir la opción para entablar conversación con la pareja que elegiste para tu  perro. Aquí proponemos que las posibles parejas no salgan uno por uno sino en una lista para mostrar todas las posibles parejas en una sola pantalla para que no sea tan tedioso revisar uno por uno. 
+  * Cuando ya están registrados tu perfil y el de tu mascota te salen las posibles parejas de tu perro. Si le das X te sale otra posible opción, si le das la pata entonces te sale la pantalla Match patita  en la cual puedes elegir la opción para entablar conversación con la pareja que elegiste para tu  perro. Aquí proponemos que las posibles parejas no salgan uno por uno sino en una lista para mostrar todas las posibles parejas en una sola pantalla para que no sea tan tedioso revisar uno por uno. 
 
 ![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/6_zpsdhof2n9m.png)
 
