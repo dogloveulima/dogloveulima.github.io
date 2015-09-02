@@ -18,6 +18,7 @@ layout: template
  | Falta de gestión de proyectos efectiva | Tener feedbkack's de cada tareas a realizar para la ejecución de la aplicación | Cada integrante hará un feedback al product owner de turno al final de cada sprint de acuerdo a su experiencia y problemas que tuvo con sus tareas
 
 
+
 * Product Backlog inicial
 
   | _ID HISTORIA_ | Nombre de la Historia | Estado | Tamaño | Sprint | Importancia | Como probarlo | Comentarios
@@ -35,7 +36,10 @@ layout: template
 
 * Sprint Backlog (100%)
 * Prototipos (wireframes) (50%)
-* [Diagrama de Casos de Uso- Rational](https://drive.google.com/file/d/0B8OVG2Gb3mfGTzBmRnczQ29idGc/view?usp=sharing)
+*
+* Diagrama de Casos de Uso
+
+_[Ver en rational]_(https://drive.google.com/file/d/0B8OVG2Gb3mfGTzBmRnczQ29idGc/view?usp=sharing)
 
  ![](https://github.com/dogloveulima/dogloveulima.github.io/blob/master/Dcus.jpg?raw=true)
  
