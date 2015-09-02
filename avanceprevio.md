@@ -56,7 +56,7 @@ layout: template
  
 * Prototipos (wireframes) (50%)
  
- *  La aplicación comienza con la pantalla de entrada tienes que deslizar hacia la derecha para ir a la pantalla de inicio. Esta    pantalla debería verse sólo 10 segundos y luego entrar a la pantalla de  inicio ya que algunas veces se demora para cambiar a la || pantalla.
+ *  La aplicación comienza con la pantalla de entrada tienes que deslizar hacia la derecha para ir a la pantalla de inicio. Esta    pantalla debería verse sólo 10 segundos y luego entrar a la pantalla de  inicio ya que algunas veces se demora para cambiar a la  pantalla.
  
 
 ![Imagen](http://i173.photobucket.com/albums/w44/Luis_Miguel_Casas/1_zpscgjdiesx.png)
