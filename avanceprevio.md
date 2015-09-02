@@ -35,4 +35,4 @@ layout: template
 
 * Sprint Backlog (100%)
 * Prototipos (wireframes) (50%)
-* Diagrama de Casos de Uso (50%)
+* [Diagrama de Casos de Uso](https://drive.google.com/a/ulima.pe/file/d/0B2tEOF09K5G8b0cxV1FNYjFuUzQ/view?usp=sharing)
