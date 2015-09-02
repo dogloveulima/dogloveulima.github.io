@@ -21,6 +21,8 @@ layout: template
 
 * Product Backlog inicial
 
+   _[Ver en archivo](https://drive.google.com/file/d/0B8OVG2Gb3mfGelA3bEJYb1VfZnc/view?usp=sharing)_
+
   | _ID HISTORIA_ | Nombre de la Historia | Estado | Tamaño | Sprint | Importancia | Como probarlo | Comentarios
   | ---- | ---------- | ----- | ------- | ------ | ----- | --------------- | ------------- |  
   | 1 | Página de Bienvenida | planeado |  4 | 1 | 2 | Al ingresar a la aplicación, el usuario se encontrará en esta página | Página de bienvenida |
@@ -33,10 +35,9 @@ layout: template
   | 8 | Buscar Parejas | planeado | 20 | 3 | 10 | De acuerdo al filtro de búsqueda se mostrarán los perros que cumplan con los requisitos, y así poder encontrar a la pareja de su mascota. Además, se eligirá si el perro encontrado será aceptado o rechazado para así poder encontrar un match |Se muestran posibles parejas para la mascota y se aceptan y rechazan para buscar posibles match | 
   | 9 | Chatear | planeado | 18 | 3 | 7 | Con los perros matcheados, se podrá iniciar un chat para el futuro encuentro de los caninos | Se abre un con el dueño de la mascota aceptada, generándose un historial de conversaciones |
  
-
 * Sprint Backlog (100%)
 * Prototipos (wireframes) (50%)
-*
+
 * Diagrama de Casos de Uso
 
   _[Ver en rational](https://drive.google.com/file/d/0B8OVG2Gb3mfGTzBmRnczQ29idGc/view?usp=sharing)_
