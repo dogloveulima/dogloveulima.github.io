@@ -39,7 +39,7 @@ layout: template
 *
 * Diagrama de Casos de Uso
 
-_[Ver en rational](https://drive.google.com/file/d/0B8OVG2Gb3mfGTzBmRnczQ29idGc/view?usp=sharing)_
+  _[Ver en rational](https://drive.google.com/file/d/0B8OVG2Gb3mfGTzBmRnczQ29idGc/view?usp=sharing)_
 
  ![](https://github.com/dogloveulima/dogloveulima.github.io/blob/master/Dcus.jpg?raw=true)
  
