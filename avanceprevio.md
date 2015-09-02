@@ -1,7 +1,9 @@
-
+---
+layout: template
+---
  * Plan de proyecto
    * [GANTT](https://drive.google.com/file/d/0B8OVG2Gb3mfGRUE3OE9heHFfUlU/view?usp=sharing).
-  
+ 
    
    * [EDT](https://drive.google.com/file/d/0B8OVG2Gb3mfGUXdaUEZac1plcGc/view?usp=sharing).
    
