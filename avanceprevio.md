@@ -1,17 +1,17 @@
 ---
 layout: template
 ---
- <big>PLAN DE PROYECTO</big>
+ <big> 1. PLAN DE PROYECTO</big>
  
-   * [GANTT](https://drive.google.com/file/d/0B8OVG2Gb3mfGRUE3OE9heHFfUlU/view?usp=sharing).
+   * [1.1 GANTT](https://drive.google.com/file/d/0B8OVG2Gb3mfGRUE3OE9heHFfUlU/view?usp=sharing).
  
    
-   * [EDT](https://drive.google.com/file/d/0B8OVG2Gb3mfGUXdaUEZac1plcGc/view?usp=sharing).
+   * [1.2 EDT](https://drive.google.com/file/d/0B8OVG2Gb3mfGUXdaUEZac1plcGc/view?usp=sharing).
    
      ![](https://github.com/dogloveulima/dogloveulima.github.io/blob/master/EDT.jpg?raw=true)
 
    
-   * Plan de Riesgos
+   * 1.3 Plan de Riesgos
    
   | Riesgo | Mitigación | Reacción |
   | ------------ | ------------- | ------------- |  
@@ -23,7 +23,7 @@ layout: template
 
 
 
-* Product Backlog inicial y Sprint Backlog 
+1.4 Product Backlog inicial y Sprint Backlog 
 
    _[Ver en archivo](https://drive.google.com/file/d/0B8OVG2Gb3mfGelA3bEJYb1VfZnc/view?usp=sharing)_
    
@@ -39,7 +39,8 @@ layout: template
   | 8 | Buscar Parejas | planeado | 20 | 3 | 10 | De acuerdo al filtro de búsqueda se mostrarán los perros que cumplan con los requisitos, y así poder encontrar a la pareja de su mascota. Además, se eligirá si el perro encontrado será aceptado o rechazado para así poder encontrar un match |Se muestran posibles parejas para la mascota y se aceptan o rechazan para buscar posibles match | 
   | 9 | Chatear | planeado | 18 | 3 | 7 | Con los perros matcheados, se podrá iniciar un chat para el futuro encuentro de los caninos | Se abre un con el dueño de la mascota aceptada, generándose un historial de conversaciones |
    
-* Sprint Backlog
+   
+ Sprint Backlog
 
    Item | Nombre de la Tarea | ID Historia | Responsable | Estado | Est. (en horas) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -54,7 +55,7 @@ layout: template
 9 | Codificación de página de servicios adicionales | 5 | Diandra | Planeado | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 10 | Diseño de la interfaz de la página de servicios adicionales | 5 | Diandra | Planeado | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
  
-* Prototipos (wireframes) (50%)
+1.5 Prototipos (wireframes) (50%)
  
  *  La aplicación comienza con la pantalla de entrada tienes que deslizar hacia la derecha para ir a la pantalla de inicio. Esta    pantalla debería verse sólo 10 segundos y luego entrar a la pantalla de  inicio ya que algunas veces se demora para cambiar a la  pantalla.
  
